@@ -423,19 +423,7 @@ Output: score_8:        **Tensor shape**: 1, 12800, 1,
 generate_bboxes_kps num: 34
 MNN Version Done! Detected Face Num: 5
 LITENCNN_DEBUG LogId: ../hub/ncnn/cv/scrfd_2.5g_bnkps_shape640x640.opt.param
-=============== Input-Dims ==============
-Input: input.1: shape: c=0 h=0 w=0
 =============== Output-Dims ==============
-Output: score_8: shape: c=0 h=0 w=0
-Output: bbox_8: shape: c=0 h=0 w=0
-Output: kps_8: shape: c=0 h=0 w=0
-Output: score_16: shape: c=0 h=0 w=0
-Output: bbox_16: shape: c=0 h=0 w=0
-Output: kps_16: shape: c=0 h=0 w=0
-Output: score_32: shape: c=0 h=0 w=0
-Output: bbox_32: shape: c=0 h=0 w=0
-Output: kps_32: shape: c=0 h=0 w=0
-========================================
 score_8: c=1,h=12800,w=1
 score_16: c=1,h=3200,w=1
 score_32: c=1,h=800,w=1
