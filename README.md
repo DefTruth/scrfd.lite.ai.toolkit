@@ -130,7 +130,7 @@ NCNN模型文件下载地址，([Baidu Drive](https://pan.baidu.com/s/1hlnqyNsFb
 
 ## 4. 接口文档
 
-在[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) 中，YOLOX的实现类为：
+在[lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) 中，SCRFD的实现类为：
 
 ```c++
 class LITE_EXPORTS lite::cv::face::detect::SCRFD;
